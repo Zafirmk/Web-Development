@@ -14,8 +14,8 @@ Sample websites created using HTML, CSS, JS and other frameworks.
 
 1. Clone this repo using the following command  
 ```
-$ git clone https://github.com/Zafirmk/Sign4Good.git
-$ cd Sign4Good
+$ git clone https://github.com/Zafirmk/Web-Development.git
+$ cd Web-Development
 ```
 2. Create a new branch
 ```
