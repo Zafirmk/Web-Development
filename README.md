@@ -10,5 +10,10 @@ Sample websites created using HTML, CSS, JS and other frameworks.
 ![Mobile Gif](https://github.com/Zafirmk/Web-Development/blob/master/mobile.gif)
 
 
+
+
+![Mobile Gif](https://github.com/Zafirmk/Web-Development/blob/master/mobile2.gif)
+
+
 ### Frameworks/Technologies
 *  [BootStrap4](https://getbootstrap.com/)
